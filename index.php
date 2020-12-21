@@ -1,5 +1,5 @@
 <?php error_reporting(0);
-   ?>
+?>
 <head>
    <meta charset="utf-8" />
    <title>E-mail Marketing</title>
@@ -41,13 +41,13 @@
          </div>
          <br>
          <span>
-            Informações: 
+            Informações:
             <i id="demo">
                <div class="label label-warning label-dismissible">Não iniciado.</div>
             </i>
-            | Carregados: 
+            | Carregados:
             <div id="carregada" class="label label-warning label-dismissible">0</div>
-            </i> | Enviados: 
+            </i> | Enviados:
             <div id="testado" class="label label-warning label-dismissible">0</div>
          </span>
       </center>
