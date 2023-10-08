@@ -10,7 +10,7 @@
   <h3 align="center"> 
     Send bulk emails to a list of recipients 📭
   <br />  <br />
-  
+    </h3> 
   <p align="center">
     <img src="https://user-images.githubusercontent.com/47280551/62348858-6b6eca00-b4d4-11e9-981c-a6115749d55d.gif" alt="giff" >
     <br />
